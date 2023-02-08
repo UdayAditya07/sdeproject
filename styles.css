@@ -1,0 +1,196 @@
+body{
+    background-color: #F7FBE1;
+}
+.starting-page{
+    background-color: #FBFAD3;
+    text-align: center;
+}
+.logobar{
+    background-color: #1597BB;
+    border:solid;
+    margin: 0 330px 0 330px ;
+}
+
+.nav-bar{
+    background-color: black;
+    height: 30px;
+    border-radius: 4px;
+}
+.nav-bar ul{
+    overflow: auto;
+}
+.nav-bar li{
+    float: left;
+    list-style: none;
+    padding: 3px 20px 3px 20px;
+    margin: auto 100px auto 100px;
+}
+.nav-bar a{
+    text-decoration: none;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    color:#B4F6F6;
+}
+.nav-bar a:hover{
+   background-color:#A4BE7B;
+   border-radius: 5px;
+}
+.building{
+    margin:10px 200px;
+    width: 1000px;
+    height: 700px;
+}
+.intro{
+    font-size: large;
+    font-family: 'Itim', cursive;
+}
+.htro{
+    font-family: 'Pacifico', cursive;
+    text-decoration: underline;
+}
+.institute{
+    font-size: large;
+    font-family: 'Itim', cursive;
+}
+
+.start{
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    color: #80489C;
+    text-align: center;
+}
+.style{
+    color:grey;
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 10px;
+}
+.campus{
+    width:55%;
+    float: left;
+    padding: 30px;
+}
+.expectation-1{
+    margin-top: 150px;
+}
+.sub{
+    text-align: right;
+    margin-top: 60px;
+}
+.academic{
+    width: 55%;
+    height:500px;
+    overflow: auto;
+}
+p{
+    font-family:'Kalam',cursive ;
+    font-size: 30px;
+}
+.academic{
+    float: right;
+}
+.reality-1{
+    margin-top: 120px;
+    margin-bottom: 250px;
+}
+.Hostel{
+    float: left;
+    padding: 30px;
+}
+.expectation-2{
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+.hostel{
+    width: 55%;
+    height: 500px;
+    float: right;
+    overflow: auto;
+}
+.sub-1{
+    text-align: right;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.reality-2{
+    margin-top: 120px;
+    margin-bottom: 120px; 
+}
+.kichidi{
+    width: 50%;
+    float: left;
+    padding: 30px;
+}
+.expectation-3{
+    margin-top: 160px;
+    margin-bottom: 120px;
+}
+.mess-party{
+    width: 55%;
+    float: right;
+    padding: 30px;
+}
+.reality-3{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.party{
+    float:left;
+    padding: 30px;
+}
+.expectation-4{
+    margin-top: 170px;
+    margin-bottom: 260px;
+}
+.event{
+   width: 55%;
+   height: 500px;
+   float: right; 
+}
+.reality-4{
+    margin-top: 180px;
+    margin-bottom: 180px;
+}
+.enjoy{
+    float: left;
+    padding: 30px;
+}
+.expectation-5{
+    margin-top: 170px;
+    margin-bottom: 200px;
+}
+.us{
+    width: 55%;
+    height: 500px;
+    float:right;
+    padding: 30px;
+}
+.reality-5{
+    margin-top: 200px;
+    margin-bottom: 220px;
+}
+.differences{
+    float:left;
+    padding: 30px;
+}
+.expectation-6{
+    margin-top: 150px;
+    margin-bottom:100px;
+}
+.us-1{
+  width: 55%;
+  height:600px;
+  float:right;
+  padding: 30px;
+}
+.reality-6{
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+h2{
+    font-family: 'Dosis', sans-serif;
+}
+.tro{
+    background-color: #C9EFF9;
+}
